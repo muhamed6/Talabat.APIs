@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|c:\\users\\mohamed\\onedrive\\documents\\eng_ahmednasr\\api\\session 08\\demo\\talabat.g03.solution\\talabat.apis\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\helpers\\cachedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|c:\\users\\mohamed\\onedrive\\documents\\eng_ahmednasr\\api\\session 08\\demo\\talabat.g03.solution\\talabat.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|c:\\users\\mohamed\\onedrive\\documents\\eng_ahmednasr\\api\\session 08\\demo\\talabat.g03.solution\\talabat.apis\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F3FA4E-870B-4C37-853D-D82C1264E8C4}|Talabat.Service\\Talabat.Service.csproj|c:\\users\\mohamed\\onedrive\\documents\\eng_ahmednasr\\api\\session 08\\demo\\talabat.g03.solution\\talabat.service\\talabat.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0F3FA4E-870B-4C37-853D-D82C1264E8C4}|Talabat.Service\\Talabat.Service.csproj|solutionrelative:talabat.service\\talabat.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71CADBB-F75D-48CA-96F5-7B73C49AD5FB}|Talabat.Repository\\Talabat.Repository.csproj|c:\\users\\mohamed\\onedrive\\documents\\eng_ahmednasr\\api\\session 08\\demo\\talabat.g03.solution\\talabat.repository\\talabat.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F71CADBB-F75D-48CA-96F5-7B73C49AD5FB}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\talabat.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC1E8C5-DBC5-4125-8C20-A32E5765492A}|Talabat.Core\\Talabat.Core.csproj|c:\\users\\mohamed\\onedrive\\documents\\eng_ahmednasr\\api\\session 08\\demo\\talabat.g03.solution\\talabat.core\\talabat.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AC1E8C5-DBC5-4125-8C20-A32E5765492A}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\talabat.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|c:\\users\\mohamed\\onedrive\\documents\\eng_ahmednasr\\api\\session 08\\demo\\talabat.g03.solution\\talabat.apis\\talabat.apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\talabat.apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|c:\\users\\mohamed\\onedrive\\documents\\eng_ahmednasr\\api\\session 08\\demo\\talabat.g03.solution\\talabat.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42EED8BA-B38D-4433-957E-BF62F2E47E94}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Program.cs",
+              "ToolTip": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\Program.cs",
+              "RelativeToolTip": "Talabat.APIs\\Program.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAywHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:02:07.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAASwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:26:55.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CachedAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\Helpers\\CachedAttribute.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Helpers\\CachedAttribute.cs",
+              "ToolTip": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\Helpers\\CachedAttribute.cs",
+              "RelativeToolTip": "Talabat.APIs\\Helpers\\CachedAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:26:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Talabat.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.Service\\Talabat.Service.csproj",
+              "RelativeDocumentMoniker": "Talabat.Service\\Talabat.Service.csproj",
+              "ToolTip": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.Service\\Talabat.Service.csproj",
+              "RelativeToolTip": "Talabat.Service\\Talabat.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T01:02:38.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "Talabat.APIs\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\appsettings.json",
+              "RelativeToolTip": "Talabat.APIs\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA1wAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T00:56:37.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Talabat.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.Repository\\Talabat.Repository.csproj",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Talabat.Repository.csproj",
+              "ToolTip": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.Repository\\Talabat.Repository.csproj",
+              "RelativeToolTip": "Talabat.Repository\\Talabat.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T00:46:31.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Talabat.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj",
+              "RelativeDocumentMoniker": "Talabat.Core\\Talabat.Core.csproj",
+              "ToolTip": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.Core\\Talabat.Core.csproj",
+              "RelativeToolTip": "Talabat.Core\\Talabat.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T00:45:50.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Talabat.APIs.csproj",
+              "DocumentMoniker": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\Talabat.APIs.csproj",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Talabat.APIs.csproj",
+              "ToolTip": "C:\\Users\\mohamed\\OneDrive\\Documents\\eng_ahmednasr\\api\\Session 08\\Demo\\Talabat.G03.Solution\\Talabat.APIs\\Talabat.APIs.csproj",
+              "RelativeToolTip": "Talabat.APIs\\Talabat.APIs.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T00:44:14.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

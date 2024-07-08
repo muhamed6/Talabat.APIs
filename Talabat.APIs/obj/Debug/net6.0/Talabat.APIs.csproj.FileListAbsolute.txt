@@ -1,0 +1,648 @@
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 01\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 02\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 03\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 04 - UPDATED\Demos\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 05\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 06\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 07\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.staticwebassets.runtime.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.exe
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.deps.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.runtimeconfig.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfoInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.AssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.APIs.props
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\scopedcss\bundle\Talabat.APIs.styles.css
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat..E80B9396.Up2Date
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\refint\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.pdb
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.genruntimeconfig.cache
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\ref\Talabat.APIs.dll
+C:\Users\mohamed\OneDrive\Documents\eng_ahmednasr\api\Session 08\Demo\Talabat.G03.Solution\Talabat.APIs\obj\Debug\net6.0\Talabat.APIs.sourcelink.json
